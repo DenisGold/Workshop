@@ -1,7 +1,7 @@
 {
-  "name": "idavoll/workshop-module",
+  "name": "denisgold/workshop-module",
   "type": "asgard-module",
-  "description": "Workshop module for AsgardCMS. Handles the activation of modules.",
+  "description": "Workshop module for AsgardCMS. Handles the activation of modules by Denis Stoliarchuk.",
   "keywords": [
     "asgardcms",
     "workshop",
@@ -10,16 +10,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
-  "support": {
-    "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Platform/issues",
-    "source": "https://github.com/AsgardCms/Workshop"
-  },
   "require": {
     "php": ">=7.0.0",
     "composer/installers": "~1.0",
